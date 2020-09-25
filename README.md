@@ -1,16 +1,18 @@
-### Hi there 👋
+## Shamik Ghadge
 
-<!--
-**ShamikG17/ShamikG17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey Shamik here :wave: . I'm currently pursuing my Bachelor of Engineering in Computers at Pimpri Chinchwad College of Engineering.
+I'm keen on learning and implementing new stuff! :computer:
 
-Here are some ideas to get you started:
+### Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    1. Django for Web Development.
+    2. C++
+
+### Reach me
+
+-:email: Email: shamikghadge.17@gmail.com
+-:linkedin: LinkedIn: [Shamik Ghadge](https://www.linkedin.com/in/shamik-ghadge-701513180/)
+
+
+
+    
