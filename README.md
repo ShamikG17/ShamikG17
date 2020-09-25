@@ -17,6 +17,6 @@ I'm keen on learning and implementing new stuff! :computer:
 
 ### Github Stats
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShamikG17&repo=ShamikG17)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShamikG17)](https://github.com/anuraghazra/github-readme-stats)
 
     
