@@ -15,6 +15,8 @@ I'm keen on learning and implementing new stuff! :computer:
 
 -LinkedIn: [Shamik Ghadge](https://www.linkedin.com/in/shamik-ghadge-701513180/)
 
+### Github Stats
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShamikG17&repo=ShamikG17)](https://github.com/anuraghazra/github-readme-stats)
 
     
