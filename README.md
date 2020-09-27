@@ -5,7 +5,7 @@ I'm keen on learning and implementing new stuff! :computer:
 
 ### Activities
 
--I'm currently learning Django for Web Development
+-I'm currently learning Django for Web Development<br/>
 -2020 Goals: Contributing to Open Source projects 
 
 ### Github Stats
@@ -18,7 +18,7 @@ I'm keen on learning and implementing new stuff! :computer:
 
 ### Reach me
 
--Email: shamikghadge.17@gmail.com
+-Email: shamikghadge.17@gmail.com<br/>
 -LinkedIn: [Shamik Ghadge](https://www.linkedin.com/in/shamik-ghadge-701513180/)
 
     
